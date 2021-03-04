@@ -1,16 +1,13 @@
 ﻿<Properties StartupConfiguration="{EECE59DB-5B5D-F2E1-8CCA-E6097DD7717F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/tutorialShader.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Skin.shader">
     <Files>
       <File FileName="Assets/ClothesShader.shader" Line="8" Column="36" />
-      <File FileName="Assets/Skin.shader" Line="8" Column="50" />
-      <File FileName="Assets/SkinShader.shader" Line="1" Column="1" />
-      <File FileName="Assets/tutorialShader.shader" Line="1" Column="1" />
-      <File FileName="Temp/Compiled-Skin.shader" Line="1" Column="1" />
+      <File FileName="Assets/Skin.shader" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bdd577e9-d589-46e6-b0f0-c01daa0d65e5" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3a1be4e3-4e2e-450c-826c-3ab0c5187e93" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

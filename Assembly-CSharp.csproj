@@ -68,15 +68,12 @@
     <Compile Include="Assets\ShaderForge\Example Assets\Scripts\SoftNormalsToVertexColor.cs" />
     <None Include="Assets\Skin.shader" />
     <None Include="Assets\ShaderForge\Readme.txt" />
-    <None Include="Assets\level.shader" />
     <None Include="Assets\ShaderForge\Example Assets\Shaders\Vegetation.shader" />
-    <None Include="Assets\SkinShader.shader" />
     <None Include="Assets\ShaderForge\Example Assets\Shaders\VertexAnimation.shader" />
     <None Include="Assets\ShaderForge\Example Assets\Shaders\Refraction.shader" />
     <None Include="Assets\ShaderForge\Example Assets\Shaders\Parallax.shader" />
     <None Include="Assets\ShaderForge\Example Assets\Shaders\LightWrapping.shader" />
     <None Include="Assets\ClothesShader.shader" />
-    <None Include="Assets\tutorialShader.shader" />
     <None Include="Assets\ShaderForge\Example Assets\Shaders\VertexColorRounding.shader" />
     <None Include="Assets\ShaderForge\Example Assets\Shaders\TessellationDisplacement.shader" />
     <None Include="Assets\ShaderForge\Example Assets\Shaders\Tiles.shader" />
