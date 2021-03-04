@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Skin
-  m_Shader: {fileID: 4800000, guid: 82a87e65f8ae4425eadbe5c36d301380, type: 3}
+  m_Shader: {fileID: 4800000, guid: 5a7e6ed0f8ada4f0ea39e04c2000631c, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -66,6 +66,8 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
+    - _Hue: 0.018
+    - _Lightness: -0.159
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
